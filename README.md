@@ -1,6 +1,7 @@
 ## About Me
 
-Hello! I'm Ethan Blahay, a hobbyist coder with dreams of someday becoming a Game Developer! (unrealistic as they may be)
+Hello, I am Ethan Blahay, a novice coder who dabbles primarily in C++ and [Bash (The Bourne-Again Shell)](https://en.wikipedia.org/wiki/Bash_(Unix_shell)).
+I like vanilla, and hate the taste of coffee.
 
 <!---
 eblahay/eblahay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
